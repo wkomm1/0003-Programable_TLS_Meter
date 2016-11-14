@@ -1,0 +1,61 @@
+(ExpressProject ""
+  (ProjectType "UNKNOWN")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\main board.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (DRC_Scope "1")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "TRUE")
+    (DRC_Check_Unconnected_Wires "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "TRUE")
+    (DRC_Report_File "D:\ORCAD TLS METER\MAIN BOARD.DRC")
+    (Netlist_TAB "4")
+    (LAYOUT_Netlist_File "D:\ORCAD TLS METER\MAIN BOARD.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (LAYOUT_Run_ECO "TRUE")
+    (LAYOUT_Units "0"))
+  (Folder "Outputs"
+    (File ".\main board.drc"
+      (Type "Report"))
+    (File ".\main board.mnl"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "Simulation Resources"
+    (Folder "In Design")
+    (Folder "Compiled")
+    (Folder "Timed"))
+  (GlobalState
+    (Physical 0)
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\main board.dsn")
+      (Path "Design Resources" ".\main board.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Outputs" ".\main board.drc"))
+    (HierarchyView)
+    (Document
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 399"))
+      (Tab 0))
+    (Document
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -30 202 1407 0 768")
+        (Scroll "0 177")
+        (Zoom "194"))
+      (Path "D:\ORCAD TLS METER\MAIN BOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

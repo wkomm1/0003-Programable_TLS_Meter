@@ -1,0 +1,10 @@
+AutoECO Error Report
+FILE-A: D:\ORCAD TLS METER\MAIN BOARD.MAX
+FILE-B: D:\ORCAD TLS METER\MAIN BOARD.MNL
+ERROR: Component T1 (with fp TO92/100/EBC_T1) has no pin 2
+ERROR: Component Q1 (with fp TO92/100/EBC_Q1) has no pin 3
+ERROR: Component T1 (with fp TO92/100/EBC_T1) has no pin 1
+ERROR: Component T1 (with fp TO92/100/EBC_T1) has no pin 3
+ERROR: Component Q1 (with fp TO92/100/EBC_Q1) has no pin 2
+ERROR: Component Q1 (with fp TO92/100/EBC_Q1) has no pin 1
+6 errors found

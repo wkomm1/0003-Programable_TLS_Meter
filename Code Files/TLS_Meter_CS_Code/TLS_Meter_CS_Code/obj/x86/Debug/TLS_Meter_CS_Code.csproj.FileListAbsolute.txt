@@ -1,0 +1,8 @@
+D:\Cloud Storage\Dropbox\NVCC\Semester 6\PROJECTS - EET H294 - 01\Senior Project\TLS_Meter_CS_Code\TLS_Meter_CS_Code\bin\Debug\TLS_Meter_CS_Code.exe
+D:\Cloud Storage\Dropbox\NVCC\Semester 6\PROJECTS - EET H294 - 01\Senior Project\TLS_Meter_CS_Code\TLS_Meter_CS_Code\bin\Debug\TLS_Meter_CS_Code.pdb
+D:\Cloud Storage\Dropbox\NVCC\Semester 6\PROJECTS - EET H294 - 01\Senior Project\TLS_Meter_CS_Code\TLS_Meter_CS_Code\obj\x86\Debug\TLS_Meter_CS_Code.csprojResolveAssemblyReference.cache
+D:\Cloud Storage\Dropbox\NVCC\Semester 6\PROJECTS - EET H294 - 01\Senior Project\TLS_Meter_CS_Code\TLS_Meter_CS_Code\obj\x86\Debug\TLS_Meter_Csharp_Code.MainForm.resources
+D:\Cloud Storage\Dropbox\NVCC\Semester 6\PROJECTS - EET H294 - 01\Senior Project\TLS_Meter_CS_Code\TLS_Meter_CS_Code\obj\x86\Debug\TLS_Meter_Csharp_Code.Properties.Resources.resources
+D:\Cloud Storage\Dropbox\NVCC\Semester 6\PROJECTS - EET H294 - 01\Senior Project\TLS_Meter_CS_Code\TLS_Meter_CS_Code\obj\x86\Debug\TLS_Meter_CS_Code.csproj.GenerateResource.Cache
+D:\Cloud Storage\Dropbox\NVCC\Semester 6\PROJECTS - EET H294 - 01\Senior Project\TLS_Meter_CS_Code\TLS_Meter_CS_Code\obj\x86\Debug\TLS_Meter_CS_Code.exe
+D:\Cloud Storage\Dropbox\NVCC\Semester 6\PROJECTS - EET H294 - 01\Senior Project\TLS_Meter_CS_Code\TLS_Meter_CS_Code\obj\x86\Debug\TLS_Meter_CS_Code.pdb

@@ -1,0 +1,252 @@
+11:54:18.683 : OpenGL version:4.4.0
+11:54:18.683 : OpenGL extensions:GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_query_buffer_object GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_integer_mix GL_EXT_shader_image_load_store GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_debug GL_KTX_buffer_region GL_NV_bindless_multi_draw_indirect GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_square GL_NV_compute_program5 GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_ES1_1_compatibility GL_NV_explicit_multisample GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_ARB_sparse_texture GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_expand_normal GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NVX_conditional_render GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum GL_WIN_swap_hint WGL_EXT_swap_control 
+11:54:18.683 : OpenGL renderer:GeForce GTX 660/PCIe/SSE2
+11:54:18.684 : Using fast VBOs for rendering is possible
+11:54:37.529 : Starting object analyser ...
+11:54:37.544 : Points:1352
+11:54:37.544 : Edges:4152
+11:54:37.544 : Faces:2768
+11:54:37.544 : Shells:1
+11:54:37.544 : Object is manifold.
+11:54:37.547 : Analysing finished.
+11:54:43.933 : Starting object analyser ...
+11:54:43.986 : Intersecting triangles:42
+11:54:43.987 : Points:1352
+11:54:43.987 : Edges:4152
+11:54:43.987 : Faces:2768
+11:54:43.987 : Shells:1
+11:54:43.987 : Object is manifold.
+11:54:43.987 : Analysing finished.
+11:54:44.018 : Fixed collinear triangles:31
+11:54:44.032 : Corrected normal orientations:12
+11:54:44.032 : Starting object analyser ...
+11:54:44.062 : Intersecting triangles:6
+11:54:44.062 : Corrected normal orientations:12
+11:54:44.062 : Points:1352
+11:54:44.062 : Edges:4152
+11:54:44.062 : Faces:2768
+11:54:44.062 : Shells:1
+11:54:44.062 : Object is manifold.
+11:54:44.062 : Analysing finished.
+11:54:44.062 : Starting object analyser ...
+11:54:44.066 : Intersecting triangles:42
+11:54:44.066 : Points:1352
+11:54:44.066 : Edges:4152
+11:54:44.066 : Faces:2768
+11:54:44.066 : Shells:1
+11:54:44.066 : Object is manifold.
+11:54:44.067 : Analysing finished.
+11:54:46.861 : Starting object analyser ...
+11:54:46.865 : Intersecting triangles:42
+11:54:46.866 : Points:1352
+11:54:46.866 : Edges:4152
+11:54:46.866 : Faces:2768
+11:54:46.866 : Shells:1
+11:54:46.866 : Object is manifold.
+11:54:46.866 : Analysing finished.
+11:54:46.869 : Fixed collinear triangles:7
+11:54:46.871 : Corrected normal orientations:5
+11:54:46.871 : Starting object analyser ...
+11:54:46.917 : Intersecting triangles:10
+11:54:46.917 : Corrected normal orientations:5
+11:54:46.918 : Points:1352
+11:54:46.918 : Edges:4152
+11:54:46.918 : Faces:2768
+11:54:46.918 : Shells:1
+11:54:46.918 : Object is manifold.
+11:54:46.918 : Analysing finished.
+11:54:46.918 : Starting object analyser ...
+11:54:46.919 : Intersecting triangles:42
+11:54:46.920 : Points:1352
+11:54:46.920 : Edges:4152
+11:54:46.920 : Faces:2768
+11:54:46.920 : Shells:1
+11:54:46.920 : Object is manifold.
+11:54:46.920 : Analysing finished.
+11:56:02.231 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,46 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+11:56:02.630 : <Slic3r> => Processing triangulated mesh
+11:56:02.840 : <Slic3r> => Generating perimeters
+11:56:05.234 : <Slic3r> => Detecting solid surfaces
+11:56:05.362 : <Slic3r> => Preparing infill surfaces
+11:56:05.363 : <Slic3r> => Detect bridges
+11:56:05.376 : <Slic3r> => Generating horizontal shells
+11:56:05.423 : <Slic3r> => Combining infill
+11:56:05.424 : <Slic3r> => Infilling layers
+11:56:06.136 : <Slic3r> => Generating skirt
+11:56:06.137 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+11:56:10.483 : <Slic3r> Done. Process took 0 minutes and 7.851 seconds
+11:56:10.483 : <Slic3r> Filament required: 6777.6mm (16.3cm3)
+11:57:36.123 : echo:Unknown command:""
+11:57:36.124 : echo:Unknown command:""
+11:57:36.133 : FIRMWARE_NAME:Marlin V1; Sprinter/grbl mashup for gen6 FIRMWARE_URL:http://www.mendel-parts.com PROTOCOL_VERSION:1.0 MACHINE_TYPE:Mendel EXTRUDER_COUNT:1
+11:57:36.133 : echo:Active Extruder: 0
+12:03:24.102 : Printing layer 1 of 40
+12:03:24.119 : Printing layer 2 of 40
+12:11:12.707 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,46 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+12:11:12.980 : <Slic3r> => Processing triangulated mesh
+12:11:13.189 : <Slic3r> => Generating perimeters
+12:11:15.558 : <Slic3r> => Detecting solid surfaces
+12:11:15.685 : <Slic3r> => Preparing infill surfaces
+12:11:15.686 : <Slic3r> => Detect bridges
+12:11:15.699 : <Slic3r> => Generating horizontal shells
+12:11:15.744 : <Slic3r> => Combining infill
+12:11:15.745 : <Slic3r> => Infilling layers
+12:11:16.447 : <Slic3r> => Generating skirt
+12:11:16.448 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+12:11:21.424 : <Slic3r> Done. Process took 0 minutes and 8.443 seconds
+12:11:21.424 : <Slic3r> Filament required: 6777.6mm (16.3cm3)
+12:12:38.628 : Printing layer 1 of 40
+12:13:42.759 : Printing layer 2 of 40
+12:14:44.096 : The port 'COM3' does not exist.
+12:14:54.116 : echo:Unknown command:""
+12:14:54.156 : FIRMWARE_NAME:Marlin V1; Sprinter/grbl mashup for gen6 FIRMWARE_URL:http://www.mendel-parts.com PROTOCOL_VERSION:1.0 MACHINE_TYPE:Mendel EXTRUDER_COUNT:1
+12:14:54.156 : echo:Active Extruder: 0
+12:15:30.123 : Printing layer 1 of 40
+12:16:30.523 : Printing layer 2 of 40
+12:19:13.908 : Printing layer 1 of 40
+12:19:22.675 : Printing layer 2 of 40
+12:34:26.435 : Printing layer 3 of 40
+12:39:15.479 : Printing layer 4 of 40
+12:42:07.705 : Printing layer 5 of 40
+12:44:40.386 : Printing layer 6 of 40
+12:50:21.113 : Printing layer 7 of 40
+12:55:20.482 : Printing layer 8 of 40
+13:00:20.004 : Printing layer 9 of 40
+13:06:28.470 : Printing layer 10 of 40
+13:08:50.629 : Printing layer 11 of 40
+13:11:12.878 : Printing layer 12 of 40
+13:13:40.181 : Printing layer 13 of 40
+13:16:03.100 : Printing layer 14 of 40
+13:18:30.692 : Printing layer 15 of 40
+13:20:55.949 : Printing layer 16 of 40
+13:23:22.956 : Printing layer 17 of 40
+13:25:48.738 : Printing layer 18 of 40
+13:28:10.206 : Printing layer 19 of 40
+13:30:27.853 : Printing layer 20 of 40
+13:32:46.377 : Printing layer 21 of 40
+13:35:07.323 : Printing layer 22 of 40
+13:37:27.674 : Printing layer 23 of 40
+13:39:49.863 : Printing layer 24 of 40
+13:42:09.173 : Printing layer 25 of 40
+13:44:39.604 : Printing layer 26 of 40
+13:45:52.051 : Printing layer 27 of 40
+13:47:01.322 : Printing layer 28 of 40
+13:48:11.540 : Printing layer 29 of 40
+13:49:23.123 : Printing layer 30 of 40
+13:49:56.992 : Printing layer 31 of 40
+13:50:29.936 : Printing layer 32 of 40
+13:51:02.791 : Printing layer 33 of 40
+13:51:35.633 : Printing layer 34 of 40
+13:52:08.528 : Printing layer 35 of 40
+13:52:41.464 : Printing layer 36 of 40
+13:53:14.309 : Printing layer 37 of 40
+13:53:47.228 : Printing layer 38 of 40
+13:54:20.110 : Printing layer 39 of 40
+13:54:53.071 : Printing layer 40 of 40
+13:55:27.388 : Printing layer 41 of 40
+13:55:52.069 : Printjob finished at 3/31/2014 1:55 PM
+13:55:52.069 : Printing Time:1h:37m:2s
+13:55:52.069 : Lines Send:96340
+14:40:32.790 : Starting object analyser ...
+14:40:32.791 : Points:240
+14:40:32.791 : Edges:714
+14:40:32.791 : Faces:476
+14:40:32.791 : Shells:1
+14:40:32.791 : Object is manifold.
+14:40:32.791 : Analysing finished.
+14:41:04.811 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 63,44 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+14:41:05.433 : <Slic3r> => Processing triangulated mesh
+14:41:05.487 : <Slic3r> => Generating perimeters
+14:41:05.812 : <Slic3r> => Detecting solid surfaces
+14:41:05.878 : <Slic3r> => Preparing infill surfaces
+14:41:05.880 : <Slic3r> => Detect bridges
+14:41:05.888 : <Slic3r> => Generating horizontal shells
+14:41:05.903 : <Slic3r> => Combining infill
+14:41:05.904 : <Slic3r> => Infilling layers
+14:41:06.091 : <Slic3r> => Generating skirt
+14:41:06.092 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+14:41:06.650 : <Slic3r> Done. Process took 0 minutes and 1.217 seconds
+14:41:06.650 : <Slic3r> Filament required: 547.2mm (1.3cm3)
+14:47:35.107 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 63,44 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+14:47:35.379 : <Slic3r> => Processing triangulated mesh
+14:47:35.432 : <Slic3r> => Generating perimeters
+14:47:35.759 : <Slic3r> => Detecting solid surfaces
+14:47:35.826 : <Slic3r> => Preparing infill surfaces
+14:47:35.828 : <Slic3r> => Detect bridges
+14:47:35.836 : <Slic3r> => Generating horizontal shells
+14:47:35.851 : <Slic3r> => Combining infill
+14:47:35.852 : <Slic3r> => Infilling layers
+14:47:36.040 : <Slic3r> => Generating skirt
+14:47:36.042 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+14:47:36.609 : <Slic3r> Done. Process took 0 minutes and 1.231 seconds
+14:47:36.609 : <Slic3r> Filament required: 556.6mm (1.3cm3)
+14:48:56.076 : Printing layer 1 of 64
+14:52:34.157 : Printing layer 1 of 64
+14:52:34.170 : Printing layer 2 of 64
+14:53:56.208 : Printing layer 3 of 64
+14:54:12.519 : Printing layer 4 of 64
+14:54:28.408 : Printing layer 5 of 64
+14:54:43.764 : Printing layer 6 of 64
+14:55:00.271 : Printing layer 7 of 64
+14:55:19.983 : Printing layer 8 of 64
+14:55:34.561 : Printing layer 9 of 64
+14:55:49.609 : Printing layer 10 of 64
+14:56:04.694 : Printing layer 11 of 64
+14:56:19.783 : Printing layer 12 of 64
+14:56:34.832 : Printing layer 13 of 64
+14:56:49.879 : Printing layer 14 of 64
+14:57:04.939 : Printing layer 15 of 64
+14:57:19.965 : Printing layer 16 of 64
+14:57:35.017 : Printing layer 17 of 64
+14:57:50.099 : Printing layer 18 of 64
+14:58:05.125 : Printing layer 19 of 64
+14:58:20.196 : Printing layer 20 of 64
+14:58:35.253 : Printing layer 21 of 64
+14:58:50.237 : Printing layer 22 of 64
+14:59:05.269 : Printing layer 23 of 64
+14:59:20.294 : Printing layer 24 of 64
+14:59:34.915 : Printing layer 25 of 64
+14:59:49.902 : Printing layer 26 of 64
+15:00:04.979 : Printing layer 27 of 64
+15:00:20.063 : Printing layer 28 of 64
+15:00:35.103 : Printing layer 29 of 64
+15:00:50.094 : Printing layer 30 of 64
+15:01:05.160 : Printing layer 31 of 64
+15:01:20.226 : Printing layer 32 of 64
+15:01:35.316 : Printing layer 33 of 64
+15:01:50.325 : Printing layer 34 of 64
+15:02:05.376 : Printing layer 35 of 64
+15:02:20.416 : Printing layer 36 of 64
+15:02:35.500 : Printing layer 37 of 64
+15:02:50.586 : Printing layer 38 of 64
+15:03:05.672 : Printing layer 39 of 64
+15:03:19.994 : Printing layer 40 of 64
+15:03:35.020 : Printing layer 41 of 64
+15:03:50.090 : Printing layer 42 of 64
+15:04:05.179 : Printing layer 43 of 64
+15:04:20.159 : Printing layer 44 of 64
+15:04:35.238 : Printing layer 45 of 64
+15:04:50.224 : Printing layer 46 of 64
+15:05:05.219 : Printing layer 47 of 64
+15:05:20.258 : Printing layer 48 of 64
+15:05:35.333 : Printing layer 49 of 64
+15:05:50.314 : Printing layer 50 of 64
+15:06:05.352 : Printing layer 51 of 64
+15:06:20.330 : Printing layer 52 of 64
+15:06:35.329 : Printing layer 53 of 64
+15:06:50.327 : Printing layer 54 of 64
+15:07:04.878 : Printing layer 55 of 64
+15:07:19.656 : Printing layer 56 of 64
+15:07:34.691 : Printing layer 57 of 64
+15:07:49.770 : Printing layer 58 of 64
+15:08:04.818 : Printing layer 59 of 64
+15:08:19.809 : Printing layer 60 of 64
+15:08:34.858 : Printing layer 61 of 64
+15:08:49.967 : Printing layer 62 of 64
+15:09:04.963 : Printing layer 63 of 64
+15:09:19.976 : Printing layer 64 of 64
+15:09:35.591 : Printing layer 65 of 64
+15:09:51.308 : Printjob finished at 3/31/2014 3:09 PM
+15:09:51.308 : Printing Time:18m:28s
+15:09:51.308 : Lines Send:20529
+

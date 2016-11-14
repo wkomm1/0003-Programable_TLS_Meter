@@ -1,0 +1,1082 @@
+11:45:11.973 : OpenGL version:4.4.0
+11:45:11.973 : OpenGL extensions:GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_query_buffer_object GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_integer_mix GL_EXT_shader_image_load_store GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_debug GL_KTX_buffer_region GL_NV_bindless_multi_draw_indirect GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_square GL_NV_compute_program5 GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_ES1_1_compatibility GL_NV_explicit_multisample GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_ARB_sparse_texture GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_expand_normal GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NVX_conditional_render GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum GL_WIN_swap_hint WGL_EXT_swap_control 
+11:45:11.973 : OpenGL renderer:GeForce GTX 660/PCIe/SSE2
+11:45:11.974 : Using fast VBOs for rendering is possible
+11:48:33.107 : Starting object analyser ...
+11:48:33.120 : Points:8
+11:48:33.120 : Edges:18
+11:48:33.120 : Faces:12
+11:48:33.120 : Shells:1
+11:48:33.120 : Object is manifold.
+11:48:33.123 : Analysing finished.
+11:48:45.112 : Starting object analyser ...
+11:48:45.134 : Points:8
+11:48:45.134 : Edges:18
+11:48:45.134 : Faces:12
+11:48:45.134 : Shells:1
+11:48:45.134 : Object is manifold.
+11:48:45.134 : Analysing finished.
+11:49:26.158 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,45 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+11:49:26.468 : <Slic3r> => Processing triangulated mesh
+11:49:26.484 : <Slic3r> => Generating perimeters
+11:49:26.622 : <Slic3r> => Detecting solid surfaces
+11:49:26.646 : <Slic3r> => Preparing infill surfaces
+11:49:26.649 : <Slic3r> => Detect bridges
+11:49:26.658 : <Slic3r> => Generating horizontal shells
+11:49:26.662 : <Slic3r> => Combining infill
+11:49:26.664 : <Slic3r> => Infilling layers
+11:49:26.816 : <Slic3r> => Generating skirt
+11:49:26.818 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+11:49:27.027 : <Slic3r> Done. Process took 0 minutes and 0.562 seconds
+11:49:27.027 : <Slic3r> Filament required: 874.7mm (2.1cm3)
+11:50:04.328 : echo:Unknown command:""
+11:50:04.328 : echo:Unknown command:""
+11:50:04.337 : FIRMWARE_NAME:Marlin V1; Sprinter/grbl mashup for gen6 FIRMWARE_URL:http://www.mendel-parts.com PROTOCOL_VERSION:1.0 MACHINE_TYPE:Mendel EXTRUDER_COUNT:1
+11:50:04.337 : echo:Active Extruder: 0
+11:56:15.009 : Printing layer 1 of 200
+11:56:55.950 : Printing layer 2 of 200
+11:57:06.920 : Printing layer 3 of 200
+11:57:17.866 : Printing layer 4 of 200
+11:57:27.228 : Printing layer 5 of 200
+11:57:37.555 : Printing layer 6 of 200
+11:57:47.743 : Printing layer 7 of 200
+11:57:57.662 : Printing layer 8 of 200
+11:58:07.989 : Printing layer 9 of 200
+11:58:18.176 : Printing layer 10 of 200
+11:58:28.096 : Printing layer 11 of 200
+11:58:38.422 : Printing layer 12 of 200
+11:58:48.609 : Printing layer 13 of 200
+11:58:58.529 : Printing layer 14 of 200
+11:59:08.858 : Printing layer 15 of 200
+11:59:19.042 : Printing layer 16 of 200
+11:59:28.960 : Printing layer 17 of 200
+11:59:39.449 : Printing layer 18 of 200
+11:59:49.474 : Printing layer 19 of 200
+11:59:59.392 : Printing layer 20 of 200
+12:00:09.881 : Printing layer 21 of 200
+12:00:19.904 : Printing layer 22 of 200
+12:00:29.824 : Printing layer 23 of 200
+12:00:40.150 : Printing layer 24 of 200
+12:00:50.335 : Printing layer 25 of 200
+12:01:00.254 : Printing layer 26 of 200
+12:01:10.580 : Printing layer 27 of 200
+12:01:20.766 : Printing layer 28 of 200
+12:01:30.684 : Printing layer 29 of 200
+12:01:41.011 : Printing layer 30 of 200
+12:01:51.195 : Printing layer 31 of 200
+12:02:01.114 : Printing layer 32 of 200
+12:02:11.441 : Printing layer 33 of 200
+12:02:21.628 : Printing layer 34 of 200
+12:02:31.544 : Printing layer 35 of 200
+12:02:42.031 : Printing layer 36 of 200
+12:02:52.185 : Printing layer 37 of 200
+12:03:02.096 : Printing layer 38 of 200
+12:03:12.299 : Printing layer 39 of 200
+12:03:22.608 : Printing layer 40 of 200
+12:03:32.403 : Printing layer 41 of 200
+12:03:42.728 : Printing layer 42 of 200
+12:03:52.912 : Printing layer 43 of 200
+12:04:02.831 : Printing layer 44 of 200
+12:04:13.157 : Printing layer 45 of 200
+12:04:23.341 : Printing layer 46 of 200
+12:04:33.260 : Printing layer 47 of 200
+12:04:43.585 : Printing layer 48 of 200
+12:04:53.769 : Printing layer 49 of 200
+12:05:03.687 : Printing layer 50 of 200
+12:05:14.012 : Printing layer 51 of 200
+12:05:24.197 : Printing layer 52 of 200
+12:05:34.117 : Printing layer 53 of 200
+12:05:44.440 : Printing layer 54 of 200
+12:05:54.624 : Printing layer 55 of 200
+12:06:04.664 : Printing layer 56 of 200
+12:06:14.867 : Printing layer 57 of 200
+12:06:25.051 : Printing layer 58 of 200
+12:06:34.970 : Printing layer 59 of 200
+12:06:45.294 : Printing layer 60 of 200
+12:06:55.478 : Printing layer 61 of 200
+12:07:05.396 : Printing layer 62 of 200
+12:07:15.721 : Printing layer 63 of 200
+12:07:25.905 : Printing layer 64 of 200
+12:07:35.823 : Printing layer 65 of 200
+12:07:46.148 : Printing layer 66 of 200
+12:07:56.332 : Printing layer 67 of 200
+12:08:06.250 : Printing layer 68 of 200
+12:08:16.575 : Printing layer 69 of 200
+12:08:26.759 : Printing layer 70 of 200
+12:08:36.677 : Printing layer 71 of 200
+12:08:47.000 : Printing layer 72 of 200
+12:08:57.185 : Printing layer 73 of 200
+12:09:07.102 : Printing layer 74 of 200
+12:09:17.429 : Printing layer 75 of 200
+12:09:27.612 : Printing layer 76 of 200
+12:09:37.528 : Printing layer 77 of 200
+12:09:48.014 : Printing layer 78 of 200
+12:09:58.037 : Printing layer 79 of 200
+12:10:07.954 : Printing layer 80 of 200
+12:10:18.440 : Printing layer 81 of 200
+12:10:28.462 : Printing layer 82 of 200
+12:10:38.380 : Printing layer 83 of 200
+12:10:48.703 : Printing layer 84 of 200
+12:10:58.888 : Printing layer 85 of 200
+12:11:08.804 : Printing layer 86 of 200
+12:11:19.130 : Printing layer 87 of 200
+12:11:29.438 : Printing layer 88 of 200
+12:11:39.230 : Printing layer 89 of 200
+12:11:49.716 : Printing layer 90 of 200
+12:11:59.739 : Printing layer 91 of 200
+12:12:09.656 : Printing layer 92 of 200
+12:12:19.979 : Printing layer 93 of 200
+12:12:30.163 : Printing layer 94 of 200
+12:12:40.080 : Printing layer 95 of 200
+12:12:50.404 : Printing layer 96 of 200
+12:13:00.591 : Printing layer 97 of 200
+12:13:10.504 : Printing layer 98 of 200
+12:13:20.829 : Printing layer 99 of 200
+12:13:31.137 : Printing layer 100 of 200
+12:13:40.929 : Printing layer 101 of 200
+12:13:51.254 : Printing layer 102 of 200
+12:14:01.561 : Printing layer 103 of 200
+12:14:11.353 : Printing layer 104 of 200
+12:14:21.677 : Printing layer 105 of 200
+12:14:31.861 : Printing layer 106 of 200
+12:14:41.779 : Printing layer 107 of 200
+12:14:52.102 : Printing layer 108 of 200
+12:15:02.285 : Printing layer 109 of 200
+12:15:12.202 : Printing layer 110 of 200
+12:15:22.526 : Printing layer 111 of 200
+12:15:32.709 : Printing layer 112 of 200
+12:15:42.629 : Printing layer 113 of 200
+12:15:52.950 : Printing layer 114 of 200
+12:16:03.133 : Printing layer 115 of 200
+12:16:13.052 : Printing layer 116 of 200
+12:16:23.373 : Printing layer 117 of 200
+12:16:33.557 : Printing layer 118 of 200
+12:16:43.596 : Printing layer 119 of 200
+12:16:53.797 : Printing layer 120 of 200
+12:17:03.981 : Printing layer 121 of 200
+12:17:13.897 : Printing layer 122 of 200
+12:17:24.221 : Printing layer 123 of 200
+12:17:34.403 : Printing layer 124 of 200
+12:17:44.321 : Printing layer 125 of 200
+12:17:54.644 : Printing layer 126 of 200
+12:18:04.828 : Printing layer 127 of 200
+12:18:14.744 : Printing layer 128 of 200
+12:18:25.067 : Printing layer 129 of 200
+12:18:35.251 : Printing layer 130 of 200
+12:18:45.167 : Printing layer 131 of 200
+12:18:55.490 : Printing layer 132 of 200
+12:19:05.674 : Printing layer 133 of 200
+12:19:15.590 : Printing layer 134 of 200
+12:19:25.916 : Printing layer 135 of 200
+12:19:36.097 : Printing layer 136 of 200
+12:19:46.013 : Printing layer 137 of 200
+12:19:56.499 : Printing layer 138 of 200
+12:20:06.520 : Printing layer 139 of 200
+12:20:16.436 : Printing layer 140 of 200
+12:20:26.968 : Printing layer 141 of 200
+12:20:37.067 : Printing layer 142 of 200
+12:20:46.981 : Printing layer 143 of 200
+12:20:57.347 : Printing layer 144 of 200
+12:21:07.366 : Printing layer 145 of 200
+12:21:17.282 : Printing layer 146 of 200
+12:21:27.605 : Printing layer 147 of 200
+12:21:37.788 : Printing layer 148 of 200
+12:21:47.704 : Printing layer 149 of 200
+12:21:58.026 : Printing layer 150 of 200
+12:22:08.210 : Printing layer 151 of 200
+12:22:18.127 : Printing layer 152 of 200
+12:22:28.450 : Printing layer 153 of 200
+12:22:38.633 : Printing layer 154 of 200
+12:22:48.548 : Printing layer 155 of 200
+12:22:58.872 : Printing layer 156 of 200
+12:23:09.057 : Printing layer 157 of 200
+12:23:18.971 : Printing layer 158 of 200
+12:23:29.295 : Printing layer 159 of 200
+12:23:39.601 : Printing layer 160 of 200
+12:23:49.393 : Printing layer 161 of 200
+12:23:59.716 : Printing layer 162 of 200
+12:24:10.023 : Printing layer 163 of 200
+12:24:19.815 : Printing layer 164 of 200
+12:24:30.138 : Printing layer 165 of 200
+12:24:40.321 : Printing layer 166 of 200
+12:24:50.236 : Printing layer 167 of 200
+12:25:00.560 : Printing layer 168 of 200
+12:25:10.743 : Printing layer 169 of 200
+12:25:20.659 : Printing layer 170 of 200
+12:25:30.983 : Printing layer 171 of 200
+12:25:41.164 : Printing layer 172 of 200
+12:25:51.084 : Printing layer 173 of 200
+12:26:01.404 : Printing layer 174 of 200
+12:26:11.586 : Printing layer 175 of 200
+12:26:21.505 : Printing layer 176 of 200
+12:26:31.825 : Printing layer 177 of 200
+12:26:42.008 : Printing layer 178 of 200
+12:26:52.046 : Printing layer 179 of 200
+12:27:02.247 : Printing layer 180 of 200
+12:27:12.429 : Printing layer 181 of 200
+12:27:22.346 : Printing layer 182 of 200
+12:27:32.669 : Printing layer 183 of 200
+12:27:42.851 : Printing layer 184 of 200
+12:27:52.768 : Printing layer 185 of 200
+12:28:03.089 : Printing layer 186 of 200
+12:28:13.272 : Printing layer 187 of 200
+12:28:23.189 : Printing layer 188 of 200
+12:28:33.511 : Printing layer 189 of 200
+12:28:43.694 : Printing layer 190 of 200
+12:28:53.610 : Printing layer 191 of 200
+12:29:03.933 : Printing layer 192 of 200
+12:29:14.115 : Printing layer 193 of 200
+12:29:24.031 : Printing layer 194 of 200
+12:29:34.516 : Printing layer 195 of 200
+12:29:44.660 : Printing layer 196 of 200
+12:29:55.092 : Printing layer 197 of 200
+12:30:05.675 : Printing layer 198 of 200
+12:30:16.614 : Printing layer 199 of 200
+12:30:27.553 : Printing layer 200 of 200
+12:30:38.685 : Printjob finished at 3/30/2014 12:30 PM
+12:30:38.685 : Printing Time:35m:36s
+12:30:38.685 : Lines Send:7837
+12:37:17.453 : Starting object analyser ...
+12:37:17.770 : Points:39416
+12:37:17.770 : Edges:118236
+12:37:17.770 : Faces:78824
+12:37:17.770 : Shells:2
+12:37:17.770 : Object is manifold.
+12:37:17.775 : Analysing finished.
+12:37:28.931 : Starting object analyser ...
+12:37:29.762 : Intersecting triangles:178
+12:37:29.813 : Points:39416
+12:37:29.813 : Edges:118236
+12:37:29.813 : Faces:78824
+12:37:29.813 : Shells:2
+12:37:29.813 : Object is manifold.
+12:37:29.818 : Analysing finished.
+12:37:31.279 : Fixed collinear triangles:49
+12:37:31.530 : Corrected normal orientations:30
+12:37:31.530 : Starting object analyser ...
+12:37:32.390 : Intersecting triangles:171
+12:37:32.390 : Corrected normal orientations:30
+12:37:32.437 : Points:39416
+12:37:32.437 : Edges:118236
+12:37:32.437 : Faces:78824
+12:37:32.437 : Shells:2
+12:37:32.437 : Object is manifold.
+12:37:32.438 : Analysing finished.
+12:37:32.438 : Starting object analyser ...
+12:37:32.690 : Intersecting triangles:178
+12:37:32.739 : Points:39416
+12:37:32.739 : Edges:118236
+12:37:32.739 : Faces:78824
+12:37:32.739 : Shells:2
+12:37:32.739 : Object is manifold.
+12:37:32.743 : Analysing finished.
+12:38:41.621 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,45 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+12:38:42.421 : <Slic3r> => Processing triangulated mesh
+12:38:45.108 : <Slic3r> => Generating perimeters
+12:38:51.188 : <Slic3r> => Detecting solid surfaces
+12:38:53.077 : <Slic3r> => Preparing infill surfaces
+12:38:53.085 : <Slic3r> => Detect bridges
+12:38:53.129 : <Slic3r> => Generating horizontal shells
+12:38:53.380 : <Slic3r> => Combining infill
+12:38:53.381 : <Slic3r> => Infilling layers
+12:38:54.021 : <Slic3r> => Generating skirt
+12:38:54.023 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+12:38:58.955 : <Slic3r> Done. Process took 0 minutes and 16.534 seconds
+12:38:58.955 : <Slic3r> Filament required: 6223.5mm (15.0cm3)
+12:40:05.327 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,45 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+12:40:06.068 : <Slic3r> => Processing triangulated mesh
+12:40:10.063 : <Slic3r> => Generating perimeters
+12:40:19.355 : <Slic3r> => Detecting solid surfaces
+12:40:21.686 : <Slic3r> => Preparing infill surfaces
+12:40:21.696 : <Slic3r> => Detect bridges
+12:40:21.761 : <Slic3r> => Generating horizontal shells
+12:40:22.030 : <Slic3r> => Combining infill
+12:40:22.031 : <Slic3r> => Infilling layers
+12:40:22.862 : <Slic3r> => Generating skirt
+12:40:22.864 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+12:40:29.583 : <Slic3r> Done. Process took 0 minutes and 23.515 seconds
+12:40:29.583 : <Slic3r> Filament required: 6471.9mm (15.6cm3)
+12:41:16.930 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,45 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+12:41:17.663 : <Slic3r> => Processing triangulated mesh
+12:41:21.667 : <Slic3r> => Generating perimeters
+12:41:30.978 : <Slic3r> => Detecting solid surfaces
+12:41:33.316 : <Slic3r> => Preparing infill surfaces
+12:41:33.326 : <Slic3r> => Detect bridges
+12:41:33.391 : <Slic3r> => Generating horizontal shells
+12:41:33.661 : <Slic3r> => Combining infill
+12:41:33.662 : <Slic3r> => Infilling layers
+12:41:34.518 : <Slic3r> => Generating skirt
+12:41:34.520 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+12:41:41.329 : <Slic3r> Done. Process took 0 minutes and 23.665 seconds
+12:41:41.329 : <Slic3r> Filament required: 6964.1mm (16.8cm3)
+12:42:54.613 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,45 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+12:42:55.345 : <Slic3r> => Processing triangulated mesh
+12:42:58.039 : <Slic3r> => Generating perimeters
+12:43:04.148 : <Slic3r> => Detecting solid surfaces
+12:43:06.036 : <Slic3r> => Preparing infill surfaces
+12:43:06.043 : <Slic3r> => Detect bridges
+12:43:06.087 : <Slic3r> => Generating horizontal shells
+12:43:06.339 : <Slic3r> => Combining infill
+12:43:06.340 : <Slic3r> => Infilling layers
+12:43:07.021 : <Slic3r> => Generating skirt
+12:43:07.023 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+12:43:12.191 : <Slic3r> Done. Process took 0 minutes and 16.846 seconds
+12:43:12.191 : <Slic3r> Filament required: 6858.5mm (16.5cm3)
+12:45:12.405 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,45 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+12:45:13.263 : <Slic3r> => Processing triangulated mesh
+12:45:15.957 : <Slic3r> => Generating perimeters
+12:45:22.058 : <Slic3r> => Detecting solid surfaces
+12:45:23.948 : <Slic3r> => Preparing infill surfaces
+12:45:23.955 : <Slic3r> => Detect bridges
+12:45:23.999 : <Slic3r> => Generating horizontal shells
+12:45:24.250 : <Slic3r> => Combining infill
+12:45:24.251 : <Slic3r> => Infilling layers
+12:45:24.932 : <Slic3r> => Generating skirt
+12:45:24.933 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+12:45:30.123 : <Slic3r> Done. Process took 0 minutes and 16.860 seconds
+12:45:30.124 : <Slic3r> Filament required: 6858.5mm (16.5cm3)
+12:48:12.663 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,45 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+12:48:13.403 : <Slic3r> => Processing triangulated mesh
+12:48:16.099 : <Slic3r> => Generating perimeters
+12:48:22.241 : <Slic3r> => Detecting solid surfaces
+12:48:24.133 : <Slic3r> => Preparing infill surfaces
+12:48:24.140 : <Slic3r> => Detect bridges
+12:48:24.184 : <Slic3r> => Generating horizontal shells
+12:48:24.437 : <Slic3r> => Combining infill
+12:48:24.439 : <Slic3r> => Infilling layers
+12:48:25.126 : <Slic3r> => Generating skirt
+12:48:25.128 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+12:48:30.326 : <Slic3r> Done. Process took 0 minutes and 16.923 seconds
+12:48:30.326 : <Slic3r> Filament required: 6854.4mm (16.5cm3)
+12:49:44.720 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,45 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+12:49:45.449 : <Slic3r> => Processing triangulated mesh
+12:49:48.142 : <Slic3r> => Generating perimeters
+12:49:54.230 : <Slic3r> => Detecting solid surfaces
+12:49:56.128 : <Slic3r> => Preparing infill surfaces
+12:49:56.135 : <Slic3r> => Detect bridges
+12:49:56.179 : <Slic3r> => Generating horizontal shells
+12:49:56.429 : <Slic3r> => Combining infill
+12:49:56.430 : <Slic3r> => Infilling layers
+12:49:57.117 : <Slic3r> => Generating skirt
+12:49:57.119 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+12:50:02.316 : <Slic3r> Done. Process took 0 minutes and 16.867 seconds
+12:50:02.316 : <Slic3r> Filament required: 6854.9mm (16.5cm3)
+12:50:27.401 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,45 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+12:50:28.130 : <Slic3r> => Processing triangulated mesh
+12:50:30.810 : <Slic3r> => Generating perimeters
+12:50:36.948 : <Slic3r> => Detecting solid surfaces
+12:50:38.846 : <Slic3r> => Preparing infill surfaces
+12:50:38.853 : <Slic3r> => Detect bridges
+12:50:38.897 : <Slic3r> => Generating horizontal shells
+12:50:39.152 : <Slic3r> => Combining infill
+12:50:39.153 : <Slic3r> => Infilling layers
+12:50:39.840 : <Slic3r> => Generating skirt
+12:50:39.842 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+12:50:45.041 : <Slic3r> Done. Process took 0 minutes and 16.911 seconds
+12:50:45.041 : <Slic3r> Filament required: 6858.5mm (16.5cm3)
+12:51:26.510 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,45 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+12:51:27.242 : <Slic3r> => Processing triangulated mesh
+12:51:29.933 : <Slic3r> => Generating perimeters
+12:51:36.041 : <Slic3r> => Detecting solid surfaces
+12:51:37.938 : <Slic3r> => Preparing infill surfaces
+12:51:37.945 : <Slic3r> => Detect bridges
+12:51:37.989 : <Slic3r> => Generating horizontal shells
+12:51:38.239 : <Slic3r> => Combining infill
+12:51:38.240 : <Slic3r> => Infilling layers
+12:51:38.922 : <Slic3r> => Generating skirt
+12:51:38.924 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+12:51:44.120 : <Slic3r> Done. Process took 0 minutes and 16.878 seconds
+12:51:44.120 : <Slic3r> Filament required: 6859.0mm (16.5cm3)
+12:52:57.690 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,45 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+12:52:58.785 : <Slic3r> => Processing triangulated mesh
+12:53:01.521 : <Slic3r> => Generating perimeters
+12:53:07.682 : <Slic3r> => Detecting solid surfaces
+12:53:09.608 : <Slic3r> => Preparing infill surfaces
+12:53:09.615 : <Slic3r> => Detect bridges
+12:53:09.661 : <Slic3r> => Generating horizontal shells
+12:53:09.900 : <Slic3r> => Combining infill
+12:53:09.901 : <Slic3r> => Infilling layers
+12:53:10.573 : <Slic3r> => Generating skirt
+12:53:10.575 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+12:53:15.755 : <Slic3r> Done. Process took 0 minutes and 16.970 seconds
+12:53:15.755 : <Slic3r> Filament required: 6802.5mm (16.4cm3)
+12:59:42.359 : Printing layer 1 of 499
+13:02:18.486 : Printing layer 2 of 499
+13:02:48.989 : Printing layer 3 of 499
+13:03:09.901 : Printing layer 4 of 499
+13:03:30.517 : Printing layer 5 of 499
+13:03:51.329 : Printing layer 6 of 499
+13:04:11.986 : Printing layer 7 of 499
+13:04:32.152 : Printing layer 8 of 499
+13:04:52.729 : Printing layer 9 of 499
+13:05:13.252 : Printing layer 10 of 499
+13:05:33.782 : Printing layer 11 of 499
+13:05:54.214 : Printing layer 12 of 499
+13:06:14.756 : Printing layer 13 of 499
+13:06:35.303 : Printing layer 14 of 499
+13:06:56.069 : Printing layer 15 of 499
+13:07:16.686 : Printing layer 16 of 499
+13:07:37.392 : Printing layer 17 of 499
+13:07:57.430 : Printing layer 18 of 499
+13:08:17.528 : Printing layer 19 of 499
+13:08:38.009 : Printing layer 20 of 499
+13:08:57.835 : Printing layer 21 of 499
+13:09:18.303 : Printing layer 22 of 499
+13:09:39.014 : Printing layer 23 of 499
+13:09:58.858 : Printing layer 24 of 499
+13:10:19.069 : Printing layer 25 of 499
+13:10:39.082 : Printing layer 26 of 499
+13:10:59.242 : Printing layer 27 of 499
+13:11:19.429 : Printing layer 28 of 499
+13:11:39.629 : Printing layer 29 of 499
+13:11:59.396 : Printing layer 30 of 499
+13:12:19.458 : Printing layer 31 of 499
+13:12:39.117 : Printing layer 32 of 499
+13:12:58.961 : Printing layer 33 of 499
+13:13:18.611 : Printing layer 34 of 499
+13:13:38.885 : Printing layer 35 of 499
+13:13:58.669 : Printing layer 36 of 499
+13:14:19.391 : Printing layer 37 of 499
+13:14:39.577 : Printing layer 38 of 499
+13:14:59.363 : Printing layer 39 of 499
+13:15:19.679 : Printing layer 40 of 499
+13:15:40.629 : Printing layer 41 of 499
+13:16:01.138 : Printing layer 42 of 499
+13:16:22.814 : Printing layer 43 of 499
+13:16:43.393 : Printing layer 44 of 499
+13:17:03.335 : Printing layer 45 of 499
+13:17:25.806 : Printing layer 46 of 499
+13:17:46.074 : Printing layer 47 of 499
+13:18:08.281 : Printing layer 48 of 499
+13:18:31.542 : Printing layer 49 of 499
+13:18:55.971 : Printing layer 50 of 499
+13:19:20.215 : Printing layer 51 of 499
+13:19:44.789 : Printing layer 52 of 499
+13:20:08.538 : Printing layer 53 of 499
+13:20:33.526 : Printing layer 54 of 499
+13:20:58.334 : Printing layer 55 of 499
+13:21:23.105 : Printing layer 56 of 499
+13:21:51.275 : Printing layer 57 of 499
+13:22:18.488 : Printing layer 58 of 499
+13:22:45.348 : Printing layer 59 of 499
+13:23:12.070 : Printing layer 60 of 499
+13:23:39.344 : Printing layer 61 of 499
+13:24:08.209 : Printing layer 62 of 499
+13:24:34.004 : Printing layer 63 of 499
+13:25:02.820 : Printing layer 64 of 499
+13:25:31.967 : Printing layer 65 of 499
+13:26:01.301 : Printing layer 66 of 499
+13:26:38.605 : Printing layer 67 of 499
+13:27:18.646 : Printing layer 68 of 499
+13:27:48.168 : Printing layer 69 of 499
+13:28:15.460 : Printing layer 70 of 499
+13:28:47.253 : Printing layer 71 of 499
+13:29:18.770 : Printing layer 72 of 499
+13:29:55.800 : Printing layer 73 of 499
+13:30:24.409 : Printing layer 74 of 499
+13:30:55.756 : Printing layer 75 of 499
+13:31:09.205 : Printing layer 76 of 499
+13:31:22.888 : Printing layer 77 of 499
+13:31:36.654 : Printing layer 78 of 499
+13:31:49.763 : Printing layer 79 of 499
+13:32:03.282 : Printing layer 80 of 499
+13:32:17.063 : Printing layer 81 of 499
+13:32:29.900 : Printing layer 82 of 499
+13:32:42.479 : Printing layer 83 of 499
+13:32:55.540 : Printing layer 84 of 499
+13:33:08.110 : Printing layer 85 of 499
+13:33:20.365 : Printing layer 86 of 499
+13:33:32.755 : Printing layer 87 of 499
+13:33:44.748 : Printing layer 88 of 499
+13:33:56.811 : Printing layer 89 of 499
+13:34:08.442 : Printing layer 90 of 499
+13:34:20.409 : Printing layer 91 of 499
+13:34:31.665 : Printing layer 92 of 499
+13:34:43.565 : Printing layer 93 of 499
+13:34:55.968 : Printing layer 94 of 499
+13:35:07.042 : Printing layer 95 of 499
+13:35:18.255 : Printing layer 96 of 499
+13:35:29.777 : Printing layer 97 of 499
+13:35:40.690 : Printing layer 98 of 499
+13:35:51.612 : Printing layer 99 of 499
+13:36:03.208 : Printing layer 100 of 499
+13:36:13.844 : Printing layer 101 of 499
+13:36:24.794 : Printing layer 102 of 499
+13:36:36.393 : Printing layer 103 of 499
+13:36:47.158 : Printing layer 104 of 499
+13:36:58.222 : Printing layer 105 of 499
+13:37:09.898 : Printing layer 106 of 499
+13:37:22.225 : Printing layer 107 of 499
+13:37:33.405 : Printing layer 108 of 499
+13:37:44.875 : Printing layer 109 of 499
+13:37:56.411 : Printing layer 110 of 499
+13:38:09.558 : Printing layer 111 of 499
+13:38:21.508 : Printing layer 112 of 499
+13:38:32.942 : Printing layer 113 of 499
+13:38:45.559 : Printing layer 114 of 499
+13:38:58.839 : Printing layer 115 of 499
+13:39:10.865 : Printing layer 116 of 499
+13:39:23.826 : Printing layer 117 of 499
+13:39:35.523 : Printing layer 118 of 499
+13:39:47.973 : Printing layer 119 of 499
+13:40:00.616 : Printing layer 120 of 499
+13:40:12.797 : Printing layer 121 of 499
+13:40:24.457 : Printing layer 122 of 499
+13:40:37.773 : Printing layer 123 of 499
+13:40:50.587 : Printing layer 124 of 499
+13:41:02.935 : Printing layer 125 of 499
+13:41:15.399 : Printing layer 126 of 499
+13:41:27.451 : Printing layer 127 of 499
+13:41:39.894 : Printing layer 128 of 499
+13:41:53.333 : Printing layer 129 of 499
+13:42:05.658 : Printing layer 130 of 499
+13:42:18.272 : Printing layer 131 of 499
+13:42:31.003 : Printing layer 132 of 499
+13:42:44.746 : Printing layer 133 of 499
+13:42:58.026 : Printing layer 134 of 499
+13:43:12.165 : Printing layer 135 of 499
+13:43:24.889 : Printing layer 136 of 499
+13:43:38.729 : Printing layer 137 of 499
+13:43:52.801 : Printing layer 138 of 499
+13:44:07.285 : Printing layer 139 of 499
+13:44:20.970 : Printing layer 140 of 499
+13:44:34.876 : Printing layer 141 of 499
+13:44:48.359 : Printing layer 142 of 499
+13:45:03.440 : Printing layer 143 of 499
+13:45:18.474 : Printing layer 144 of 499
+13:45:34.307 : Printing layer 145 of 499
+13:45:48.984 : Printing layer 146 of 499
+13:46:02.760 : Printing layer 147 of 499
+13:46:16.362 : Printing layer 148 of 499
+13:46:31.485 : Printing layer 149 of 499
+13:46:45.594 : Printing layer 150 of 499
+13:46:59.600 : Printing layer 151 of 499
+13:47:13.939 : Printing layer 152 of 499
+13:47:27.870 : Printing layer 153 of 499
+13:47:42.224 : Printing layer 154 of 499
+13:47:56.273 : Printing layer 155 of 499
+13:48:11.917 : Printing layer 156 of 499
+13:48:27.114 : Printing layer 157 of 499
+13:48:42.549 : Printing layer 158 of 499
+13:48:57.317 : Printing layer 159 of 499
+13:49:12.859 : Printing layer 160 of 499
+13:49:27.742 : Printing layer 161 of 499
+13:49:42.378 : Printing layer 162 of 499
+13:49:57.736 : Printing layer 163 of 499
+13:50:12.317 : Printing layer 164 of 499
+13:50:26.936 : Printing layer 165 of 499
+13:50:41.664 : Printing layer 166 of 499
+13:50:56.534 : Printing layer 167 of 499
+13:51:13.828 : Printing layer 168 of 499
+13:51:28.563 : Printing layer 169 of 499
+13:51:43.258 : Printing layer 170 of 499
+13:51:57.638 : Printing layer 171 of 499
+13:52:12.703 : Printing layer 172 of 499
+13:52:29.093 : Printing layer 173 of 499
+13:52:44.881 : Printing layer 174 of 499
+13:53:01.934 : Printing layer 175 of 499
+13:53:18.240 : Printing layer 176 of 499
+13:53:35.720 : Printing layer 177 of 499
+13:53:51.829 : Printing layer 178 of 499
+13:54:08.060 : Printing layer 179 of 499
+13:54:23.595 : Printing layer 180 of 499
+13:54:39.964 : Printing layer 181 of 499
+13:54:55.719 : Printing layer 182 of 499
+13:55:11.769 : Printing layer 183 of 499
+13:55:27.555 : Printing layer 184 of 499
+13:55:43.711 : Printing layer 185 of 499
+13:56:00.419 : Printing layer 186 of 499
+13:56:16.635 : Printing layer 187 of 499
+13:56:32.391 : Printing layer 188 of 499
+13:56:48.189 : Printing layer 189 of 499
+13:57:04.771 : Printing layer 190 of 499
+13:57:21.531 : Printing layer 191 of 499
+13:57:37.843 : Printing layer 192 of 499
+13:57:54.764 : Printing layer 193 of 499
+13:58:10.610 : Printing layer 194 of 499
+13:58:26.430 : Printing layer 195 of 499
+13:58:42.052 : Printing layer 196 of 499
+13:58:57.828 : Printing layer 197 of 499
+13:59:13.655 : Printing layer 198 of 499
+13:59:30.115 : Printing layer 199 of 499
+13:59:45.774 : Printing layer 200 of 499
+14:00:01.807 : Printing layer 201 of 499
+14:00:18.134 : Printing layer 202 of 499
+14:00:35.918 : Printing layer 203 of 499
+14:00:54.032 : Printing layer 204 of 499
+14:01:10.725 : Printing layer 205 of 499
+14:01:27.503 : Printing layer 206 of 499
+14:01:45.774 : Printing layer 207 of 499
+14:02:03.035 : Printing layer 208 of 499
+14:02:19.832 : Printing layer 209 of 499
+14:02:37.573 : Printing layer 210 of 499
+14:02:54.829 : Printing layer 211 of 499
+14:03:11.624 : Printing layer 212 of 499
+14:03:29.111 : Printing layer 213 of 499
+14:03:46.612 : Printing layer 214 of 499
+14:04:03.534 : Printing layer 215 of 499
+14:04:20.593 : Printing layer 216 of 499
+14:04:37.926 : Printing layer 217 of 499
+14:04:55.474 : Printing layer 218 of 499
+14:05:13.155 : Printing layer 219 of 499
+14:05:30.749 : Printing layer 220 of 499
+14:05:48.468 : Printing layer 221 of 499
+14:06:05.446 : Printing layer 222 of 499
+14:06:23.444 : Printing layer 223 of 499
+14:06:40.449 : Printing layer 224 of 499
+14:06:57.317 : Printing layer 225 of 499
+14:07:15.359 : Printing layer 226 of 499
+14:07:32.000 : Printing layer 227 of 499
+14:07:50.163 : Printing layer 228 of 499
+14:08:07.403 : Printing layer 229 of 499
+14:08:24.984 : Printing layer 230 of 499
+14:08:42.319 : Printing layer 231 of 499
+14:08:59.977 : Printing layer 232 of 499
+14:09:17.604 : Printing layer 233 of 499
+14:09:36.206 : Printing layer 234 of 499
+14:09:54.324 : Printing layer 235 of 499
+14:10:12.753 : Printing layer 236 of 499
+14:10:30.992 : Printing layer 237 of 499
+14:10:48.780 : Printing layer 238 of 499
+14:11:05.818 : Printing layer 239 of 499
+14:11:24.121 : Printing layer 240 of 499
+14:11:41.909 : Printing layer 241 of 499
+14:11:59.974 : Printing layer 242 of 499
+14:12:18.054 : Printing layer 243 of 499
+14:12:35.745 : Printing layer 244 of 499
+14:12:53.692 : Printing layer 245 of 499
+14:13:11.311 : Printing layer 246 of 499
+14:13:29.170 : Printing layer 247 of 499
+14:13:46.881 : Printing layer 248 of 499
+14:14:04.791 : Printing layer 249 of 499
+14:14:22.577 : Printing layer 250 of 499
+14:14:40.248 : Printing layer 251 of 499
+14:14:58.089 : Printing layer 252 of 499
+14:15:15.839 : Printing layer 253 of 499
+14:15:33.473 : Printing layer 254 of 499
+14:15:51.257 : Printing layer 255 of 499
+14:16:08.938 : Printing layer 256 of 499
+14:16:26.543 : Printing layer 257 of 499
+14:16:44.187 : Printing layer 258 of 499
+14:17:02.206 : Printing layer 259 of 499
+14:17:19.338 : Printing layer 260 of 499
+14:17:36.796 : Printing layer 261 of 499
+14:17:54.871 : Printing layer 262 of 499
+14:18:12.102 : Printing layer 263 of 499
+14:18:29.215 : Printing layer 264 of 499
+14:18:46.478 : Printing layer 265 of 499
+14:19:04.240 : Printing layer 266 of 499
+14:19:22.125 : Printing layer 267 of 499
+14:19:39.450 : Printing layer 268 of 499
+14:19:57.582 : Printing layer 269 of 499
+14:20:15.492 : Printing layer 270 of 499
+14:20:32.785 : Printing layer 271 of 499
+14:20:50.863 : Printing layer 272 of 499
+14:21:08.675 : Printing layer 273 of 499
+14:21:25.697 : Printing layer 274 of 499
+14:21:43.976 : Printing layer 275 of 499
+14:22:01.683 : Printing layer 276 of 499
+14:22:18.924 : Printing layer 277 of 499
+14:22:36.126 : Printing layer 278 of 499
+14:22:53.212 : Printing layer 279 of 499
+14:23:10.021 : Printing layer 280 of 499
+14:23:27.484 : Printing layer 281 of 499
+14:23:44.653 : Printing layer 282 of 499
+14:24:01.609 : Printing layer 283 of 499
+14:24:19.029 : Printing layer 284 of 499
+14:24:36.101 : Printing layer 285 of 499
+14:24:52.904 : Printing layer 286 of 499
+14:25:10.213 : Printing layer 287 of 499
+14:25:27.698 : Printing layer 288 of 499
+14:25:44.478 : Printing layer 289 of 499
+14:26:01.241 : Printing layer 290 of 499
+14:26:17.693 : Printing layer 291 of 499
+14:26:34.410 : Printing layer 292 of 499
+14:26:51.331 : Printing layer 293 of 499
+14:27:08.156 : Printing layer 294 of 499
+14:27:24.679 : Printing layer 295 of 499
+14:27:42.071 : Printing layer 296 of 499
+14:27:59.007 : Printing layer 297 of 499
+14:28:15.765 : Printing layer 298 of 499
+14:28:32.230 : Printing layer 299 of 499
+14:28:48.862 : Printing layer 300 of 499
+14:29:05.597 : Printing layer 301 of 499
+14:29:21.721 : Printing layer 302 of 499
+14:29:37.949 : Printing layer 303 of 499
+14:29:54.061 : Printing layer 304 of 499
+14:30:10.442 : Printing layer 305 of 499
+14:30:26.840 : Printing layer 306 of 499
+14:30:42.672 : Printing layer 307 of 499
+14:30:58.644 : Printing layer 308 of 499
+14:31:14.254 : Printing layer 309 of 499
+14:31:29.733 : Printing layer 310 of 499
+14:31:45.320 : Printing layer 311 of 499
+14:32:00.784 : Printing layer 312 of 499
+14:32:15.892 : Printing layer 313 of 499
+14:32:30.617 : Printing layer 314 of 499
+14:32:45.511 : Printing layer 315 of 499
+14:33:00.540 : Printing layer 316 of 499
+14:33:15.146 : Printing layer 317 of 499
+14:33:29.969 : Printing layer 318 of 499
+14:33:44.642 : Printing layer 319 of 499
+14:33:59.311 : Printing layer 320 of 499
+14:34:14.282 : Printing layer 321 of 499
+14:34:29.145 : Printing layer 322 of 499
+14:34:43.356 : Printing layer 323 of 499
+14:34:57.631 : Printing layer 324 of 499
+14:35:11.683 : Printing layer 325 of 499
+14:35:25.768 : Printing layer 326 of 499
+14:35:39.502 : Printing layer 327 of 499
+14:35:53.110 : Printing layer 328 of 499
+14:36:06.576 : Printing layer 329 of 499
+14:36:19.705 : Printing layer 330 of 499
+14:36:32.536 : Printing layer 331 of 499
+14:36:44.830 : Printing layer 332 of 499
+14:36:56.886 : Printing layer 333 of 499
+14:37:09.066 : Printing layer 334 of 499
+14:37:21.334 : Printing layer 335 of 499
+14:37:33.259 : Printing layer 336 of 499
+14:37:44.457 : Printing layer 337 of 499
+14:37:56.519 : Printing layer 338 of 499
+14:38:08.040 : Printing layer 339 of 499
+14:38:19.543 : Printing layer 340 of 499
+14:38:30.831 : Printing layer 341 of 499
+14:38:42.079 : Printing layer 342 of 499
+14:38:53.436 : Printing layer 343 of 499
+14:39:04.926 : Printing layer 344 of 499
+14:39:16.687 : Printing layer 345 of 499
+14:39:28.401 : Printing layer 346 of 499
+14:39:39.784 : Printing layer 347 of 499
+14:39:51.298 : Printing layer 348 of 499
+14:40:03.052 : Printing layer 349 of 499
+14:40:14.999 : Printing layer 350 of 499
+14:40:26.624 : Printing layer 351 of 499
+14:40:38.775 : Printing layer 352 of 499
+14:40:51.377 : Printing layer 353 of 499
+14:41:03.756 : Printing layer 354 of 499
+14:41:16.516 : Printing layer 355 of 499
+14:41:29.843 : Printing layer 356 of 499
+14:41:42.427 : Printing layer 357 of 499
+14:41:55.212 : Printing layer 358 of 499
+14:42:08.386 : Printing layer 359 of 499
+14:42:20.865 : Printing layer 360 of 499
+14:42:34.361 : Printing layer 361 of 499
+14:42:47.188 : Printing layer 362 of 499
+14:43:00.977 : Printing layer 363 of 499
+14:43:13.286 : Printing layer 364 of 499
+14:43:26.999 : Printing layer 365 of 499
+14:43:40.053 : Printing layer 366 of 499
+14:43:53.273 : Printing layer 367 of 499
+14:44:06.616 : Printing layer 368 of 499
+14:44:20.138 : Printing layer 369 of 499
+14:44:33.992 : Printing layer 370 of 499
+14:44:47.852 : Printing layer 371 of 499
+14:45:00.913 : Printing layer 372 of 499
+14:45:14.517 : Printing layer 373 of 499
+14:45:28.176 : Printing layer 374 of 499
+14:45:41.443 : Printing layer 375 of 499
+14:45:55.744 : Printing layer 376 of 499
+14:46:09.601 : Printing layer 377 of 499
+14:46:22.180 : Printing layer 378 of 499
+14:46:34.688 : Printing layer 379 of 499
+14:46:47.607 : Printing layer 380 of 499
+14:47:00.280 : Printing layer 381 of 499
+14:47:12.834 : Printing layer 382 of 499
+14:47:25.378 : Printing layer 383 of 499
+14:47:37.900 : Printing layer 384 of 499
+14:47:50.466 : Printing layer 385 of 499
+14:48:03.336 : Printing layer 386 of 499
+14:48:16.039 : Printing layer 387 of 499
+14:48:28.634 : Printing layer 388 of 499
+14:48:41.309 : Printing layer 389 of 499
+14:48:54.994 : Printing layer 390 of 499
+14:49:08.596 : Printing layer 391 of 499
+14:49:22.308 : Printing layer 392 of 499
+14:49:35.698 : Printing layer 393 of 499
+14:49:49.271 : Printing layer 394 of 499
+14:50:02.194 : Printing layer 395 of 499
+14:50:14.999 : Printing layer 396 of 499
+14:50:27.504 : Printing layer 397 of 499
+14:50:40.088 : Printing layer 398 of 499
+14:50:52.639 : Printing layer 399 of 499
+14:51:05.132 : Printing layer 400 of 499
+14:51:17.974 : Printing layer 401 of 499
+14:51:30.691 : Printing layer 402 of 499
+14:51:42.962 : Printing layer 403 of 499
+14:51:55.618 : Printing layer 404 of 499
+14:52:07.905 : Printing layer 405 of 499
+14:52:20.158 : Printing layer 406 of 499
+14:52:33.125 : Printing layer 407 of 499
+14:52:45.798 : Printing layer 408 of 499
+14:52:58.199 : Printing layer 409 of 499
+14:53:11.074 : Printing layer 410 of 499
+14:53:23.941 : Printing layer 411 of 499
+14:53:36.058 : Printing layer 412 of 499
+14:53:48.683 : Printing layer 413 of 499
+14:54:01.191 : Printing layer 414 of 499
+14:54:13.182 : Printing layer 415 of 499
+14:54:25.144 : Printing layer 416 of 499
+14:54:36.939 : Printing layer 417 of 499
+14:54:48.299 : Printing layer 418 of 499
+14:55:00.282 : Printing layer 419 of 499
+14:55:11.594 : Printing layer 420 of 499
+14:55:23.005 : Printing layer 421 of 499
+14:55:34.798 : Printing layer 422 of 499
+14:55:46.127 : Printing layer 423 of 499
+14:55:57.769 : Printing layer 424 of 499
+14:56:09.406 : Printing layer 425 of 499
+14:56:20.488 : Printing layer 426 of 499
+14:56:31.776 : Printing layer 427 of 499
+14:56:42.950 : Printing layer 428 of 499
+14:56:54.068 : Printing layer 429 of 499
+14:57:05.354 : Printing layer 430 of 499
+14:57:16.519 : Printing layer 431 of 499
+14:57:27.667 : Printing layer 432 of 499
+14:57:38.981 : Printing layer 433 of 499
+14:57:50.185 : Printing layer 434 of 499
+14:58:01.404 : Printing layer 435 of 499
+14:58:12.763 : Printing layer 436 of 499
+14:58:23.948 : Printing layer 437 of 499
+14:58:35.154 : Printing layer 438 of 499
+14:58:46.685 : Printing layer 439 of 499
+14:58:57.746 : Printing layer 440 of 499
+14:59:09.098 : Printing layer 441 of 499
+14:59:20.352 : Printing layer 442 of 499
+14:59:31.715 : Printing layer 443 of 499
+14:59:42.845 : Printing layer 444 of 499
+14:59:54.267 : Printing layer 445 of 499
+15:00:05.324 : Printing layer 446 of 499
+15:00:16.614 : Printing layer 447 of 499
+15:00:28.219 : Printing layer 448 of 499
+15:00:39.264 : Printing layer 449 of 499
+15:00:50.561 : Printing layer 450 of 499
+15:01:01.636 : Printing layer 451 of 499
+15:01:12.699 : Printing layer 452 of 499
+15:01:23.574 : Printing layer 453 of 499
+15:01:34.992 : Printing layer 454 of 499
+15:01:46.256 : Printing layer 455 of 499
+15:01:57.368 : Printing layer 456 of 499
+15:02:08.847 : Printing layer 457 of 499
+15:02:20.049 : Printing layer 458 of 499
+15:02:30.711 : Printing layer 459 of 499
+15:02:42.104 : Printing layer 460 of 499
+15:02:52.919 : Printing layer 461 of 499
+15:03:04.272 : Printing layer 462 of 499
+15:03:15.624 : Printing layer 463 of 499
+15:03:26.781 : Printing layer 464 of 499
+15:03:40.553 : Printing layer 465 of 499
+15:03:54.545 : Printing layer 466 of 499
+15:04:08.550 : Printing layer 467 of 499
+15:04:22.394 : Printing layer 468 of 499
+15:04:36.113 : Printing layer 469 of 499
+15:04:48.963 : Printing layer 470 of 499
+15:05:03.993 : Printing layer 471 of 499
+15:05:16.905 : Printing layer 472 of 499
+15:05:31.346 : Printing layer 473 of 499
+15:05:44.890 : Printing layer 474 of 499
+15:05:59.847 : Printing layer 475 of 499
+15:06:13.098 : Printing layer 476 of 499
+15:06:25.946 : Printing layer 477 of 499
+15:06:37.772 : Printing layer 478 of 499
+15:06:50.134 : Printing layer 479 of 499
+15:07:01.489 : Printing layer 480 of 499
+15:07:13.348 : Printing layer 481 of 499
+15:07:23.341 : Printing layer 482 of 499
+15:07:33.987 : Printing layer 483 of 499
+15:07:43.049 : Printing layer 484 of 499
+15:07:52.662 : Printing layer 485 of 499
+15:07:59.475 : Printing layer 486 of 499
+15:08:07.899 : Printing layer 487 of 499
+15:08:13.974 : Printing layer 488 of 499
+15:08:21.925 : Printing layer 489 of 499
+15:08:27.261 : Printing layer 490 of 499
+15:08:33.276 : Printing layer 491 of 499
+15:08:38.348 : Printing layer 492 of 499
+15:08:43.062 : Printing layer 493 of 499
+15:08:46.636 : Printing layer 494 of 499
+15:08:50.616 : Printing layer 495 of 499
+15:08:54.050 : Printing layer 496 of 499
+15:08:58.159 : Printing layer 497 of 499
+15:09:00.422 : Printing layer 498 of 499
+15:09:02.052 : Printing layer 499 of 499
+15:09:03.980 : Printjob finished at 3/30/2014 3:09 PM
+15:09:03.980 : Printing Time:2h:10m:8s
+15:09:03.980 : Lines Send:254027
+15:35:29.263 : Starting object analyser ...
+15:35:29.263 : Points:406
+15:35:29.263 : Edges:1242
+15:35:29.263 : Faces:828
+15:35:29.263 : Shells:1
+15:35:29.263 : Object is manifold.
+15:35:29.263 : Analysing finished.
+15:36:06.893 : Starting object analyser ...
+15:36:06.900 : Intersecting triangles:43
+15:36:06.900 : Points:406
+15:36:06.900 : Edges:1242
+15:36:06.900 : Faces:828
+15:36:06.900 : Shells:1
+15:36:06.900 : Object is manifold.
+15:36:06.900 : Analysing finished.
+15:36:06.903 : Fixed collinear triangles:13
+15:36:06.904 : Corrected normal orientations:2
+15:36:06.904 : Starting object analyser ...
+15:36:06.909 : Corrected normal orientations:2
+15:36:06.909 : Points:406
+15:36:06.909 : Edges:1242
+15:36:06.909 : Faces:828
+15:36:06.909 : Shells:1
+15:36:06.909 : Object is manifold.
+15:36:06.909 : Analysing finished.
+15:36:06.909 : Starting object analyser ...
+15:36:06.910 : Intersecting triangles:43
+15:36:06.910 : Points:406
+15:36:06.910 : Edges:1242
+15:36:06.910 : Faces:828
+15:36:06.910 : Shells:1
+15:36:06.910 : Object is manifold.
+15:36:06.910 : Analysing finished.
+15:36:55.467 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,45 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+15:36:55.744 : <Slic3r> 1 parts won't fit in your print area!
+15:37:14.325 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,45 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+15:37:14.600 : <Slic3r> 1 parts won't fit in your print area!
+15:39:26.278 : echo:Steps per unit:
+15:39:26.284 : echo:  M92 X62.83 Y62.92 Z2284.90 E530.00
+15:39:26.284 : echo:Maximum feedrates (mm/s):
+15:39:26.285 : echo:  M203 X60.00 Y60.00 Z2.00 E14.00
+15:39:26.285 : echo:Maximum Acceleration (mm/s2):
+15:39:26.285 : echo:  M201 X2000 Y2000 Z30 E10000
+15:39:26.285 : echo:Acceleration: S=acceleration, T=retract acceleration
+15:39:26.286 : echo:  M204 S3000.00 T3000.00
+15:39:26.286 : echo:Advanced variables: S=Min feedrate (mm/s), T=Min travel feedrate (mm/s), B=minimum segment time (ms), X=maximum xY jerk (mm/s),  Z=maximum Z jerk (mm/s)
+15:39:26.286 : echo:  M205 S0.00 T0.00 B20000 X20.00 Z0.40 E5.00
+15:39:26.286 : echo:PID settings:
+15:39:26.288 : echo:   M301 P22.20 I1.08 D114.00
+15:39:51.280 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,46 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+15:39:51.559 : <Slic3r> 1 parts won't fit in your print area!
+15:40:53.448 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,46 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+15:40:53.861 : <Slic3r> => Processing triangulated mesh
+15:40:53.913 : <Slic3r> => Generating perimeters
+15:40:56.458 : <Slic3r> => Detecting solid surfaces
+15:40:56.511 : <Slic3r> => Preparing infill surfaces
+15:40:56.513 : <Slic3r> => Detect bridges
+15:40:56.519 : <Slic3r> => Generating horizontal shells
+15:40:56.531 : <Slic3r> => Combining infill
+15:40:56.532 : <Slic3r> => Infilling layers
+15:40:56.768 : <Slic3r> => Generating skirt
+15:40:56.769 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+15:41:04.329 : <Slic3r> Done. Process took 0 minutes and 10.468 seconds
+15:41:04.329 : <Slic3r> Filament required: 13104.3mm (31.5cm3)
+15:56:59.038 : Slic3r command:C:\Program Files\Repetier-Host\Slic3r\slic3r.exe --load "C:\Users\William\AppData\Local\RepetierHost\slic3r.ini" --print-center 65,46 -o "C:\Users\William\AppData\Local\RepetierHost\composition.gcode" "C:\Users\William\AppData\Local\RepetierHost\composition.obj"
+15:56:59.454 : <Slic3r> => Processing triangulated mesh
+15:56:59.506 : <Slic3r> => Generating perimeters
+15:57:02.050 : <Slic3r> => Detecting solid surfaces
+15:57:02.105 : <Slic3r> => Preparing infill surfaces
+15:57:02.106 : <Slic3r> => Detect bridges
+15:57:02.111 : <Slic3r> => Generating horizontal shells
+15:57:02.121 : <Slic3r> => Combining infill
+15:57:02.123 : <Slic3r> => Infilling layers
+15:57:02.338 : <Slic3r> => Generating skirt
+15:57:02.339 : <Slic3r> => Exporting G-code to C:\Users\William\AppData\Local\RepetierHost\composition.gcode
+15:57:09.789 : <Slic3r> Done. Process took 0 minutes and 10.335 seconds
+15:57:09.789 : <Slic3r> Filament required: 12318.7mm (29.6cm3)
+16:02:37.574 : Printing layer 1 of 96
+16:02:37.591 : Printing layer 2 of 96
+16:18:59.926 : Printing layer 3 of 96
+16:23:40.148 : Printing layer 4 of 96
+16:25:27.765 : Printing layer 5 of 96
+16:27:19.496 : Printing layer 6 of 96
+16:33:07.221 : Printing layer 7 of 96
+16:38:07.939 : Printing layer 8 of 96
+16:43:08.516 : Printing layer 9 of 96
+16:48:14.906 : Printing layer 10 of 96
+16:50:23.275 : Printing layer 11 of 96
+16:52:39.327 : Printing layer 12 of 96
+16:55:02.238 : Printing layer 13 of 96
+16:57:26.616 : Printing layer 14 of 96
+16:59:35.306 : Printing layer 15 of 96
+17:01:39.713 : Printing layer 16 of 96
+17:03:48.395 : Printing layer 17 of 96
+17:05:53.530 : Printing layer 18 of 96
+17:08:02.456 : Printing layer 19 of 96
+17:10:08.015 : Printing layer 20 of 96
+17:12:16.279 : Printing layer 21 of 96
+17:14:21.957 : Printing layer 22 of 96
+17:16:46.190 : Printing layer 23 of 96
+17:19:03.984 : Printing layer 24 of 96
+17:21:25.119 : Printing layer 25 of 96
+17:23:48.655 : Printing layer 26 of 96
+17:25:07.722 : Printing layer 27 of 96
+17:26:26.603 : Printing layer 28 of 96
+17:27:46.898 : Printing layer 29 of 96
+17:29:07.435 : Printing layer 30 of 96
+17:30:27.728 : Printing layer 31 of 96
+17:31:48.266 : Printing layer 32 of 96
+17:33:07.340 : Printing layer 33 of 96
+17:34:28.149 : Printing layer 34 of 96
+17:35:47.815 : Printing layer 35 of 96
+17:37:08.640 : Printing layer 36 of 96
+17:38:28.363 : Printing layer 37 of 96
+17:39:49.166 : Printing layer 38 of 96
+17:41:08.852 : Printing layer 39 of 96
+17:42:29.679 : Printing layer 40 of 96
+17:43:49.401 : Printing layer 41 of 96
+17:45:10.201 : Printing layer 42 of 96
+17:46:29.900 : Printing layer 43 of 96
+17:47:50.727 : Printing layer 44 of 96
+17:49:10.449 : Printing layer 45 of 96
+17:50:31.247 : Printing layer 46 of 96
+17:51:50.923 : Printing layer 47 of 96
+17:53:11.740 : Printing layer 48 of 96
+17:54:31.415 : Printing layer 49 of 96
+17:55:52.232 : Printing layer 50 of 96
+17:57:11.907 : Printing layer 51 of 96
+17:58:32.725 : Printing layer 52 of 96
+17:59:52.399 : Printing layer 53 of 96
+18:01:13.217 : Printing layer 54 of 96
+18:02:32.891 : Printing layer 55 of 96
+18:03:54.395 : Printing layer 56 of 96
+18:05:15.850 : Printing layer 57 of 96
+18:06:37.453 : Printing layer 58 of 96
+18:07:58.627 : Printing layer 59 of 96
+18:09:19.984 : Printing layer 60 of 96
+18:10:40.850 : Printing layer 61 of 96
+18:12:01.930 : Printing layer 62 of 96
+18:13:22.528 : Printing layer 63 of 96
+18:14:43.347 : Printing layer 64 of 96
+18:16:03.021 : Printing layer 65 of 96
+18:17:23.838 : Printing layer 66 of 96
+18:18:39.537 : Printing layer 67 of 96
+18:19:55.077 : Printing layer 68 of 96
+18:21:13.899 : Printing layer 69 of 96
+18:22:29.224 : Printing layer 70 of 96
+18:23:47.832 : Printing layer 71 of 96
+18:25:03.371 : Printing layer 72 of 96
+18:26:21.978 : Printing layer 73 of 96
+18:27:37.516 : Printing layer 74 of 96
+18:28:56.124 : Printing layer 75 of 96
+18:30:11.662 : Printing layer 76 of 96
+18:31:30.271 : Printing layer 77 of 96
+18:32:45.809 : Printing layer 78 of 96
+18:34:04.417 : Printing layer 79 of 96
+18:35:19.956 : Printing layer 80 of 96
+18:36:38.564 : Printing layer 81 of 96
+18:37:54.104 : Printing layer 82 of 96
+18:39:15.824 : Printing layer 83 of 96
+18:40:36.944 : Printing layer 84 of 96
+18:41:57.206 : Printing layer 85 of 96
+18:43:17.757 : Printing layer 86 of 96
+18:44:38.025 : Printing layer 87 of 96
+18:45:58.566 : Printing layer 88 of 96
+18:47:18.864 : Printing layer 89 of 96
+18:48:39.418 : Printing layer 90 of 96
+18:49:59.716 : Printing layer 91 of 96
+18:51:20.267 : Printing layer 92 of 96
+18:52:40.567 : Printing layer 93 of 96
+18:54:01.120 : Printing layer 94 of 96
+18:55:21.423 : Printing layer 95 of 96
+18:56:41.974 : Printing layer 96 of 96
+18:58:02.235 : Printing layer 97 of 96
+18:59:22.825 : Printjob finished at 3/30/2014 6:59 PM
+18:59:22.825 : Printing Time:2h:57m:39s
+18:59:22.825 : Lines Send:147252
+

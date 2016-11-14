@@ -1,0 +1,25 @@
+(ExpressProject ""
+  (ProjectType "UNKNOWN")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File "C:\DOCUME~1\01527743\LOCALS~1\Temp\AUTOSAVE\CAS1\main board.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "Simulation Resources"
+    (Folder "In Design")
+    (Folder "Compiled")
+    (Folder "Timed"))
+  (GlobalState
+    (Physical 0)
+    (FileView
+      (Path "Design Resources"))
+    (HierarchyView)
+    (Document
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 399"))
+      (Tab 0))))
